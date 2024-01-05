@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\UET BSCS\COAL\Final Project\DigitalRead\DigitalRead\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/programs\Microchip Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>D:\programs\Microchip Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\UET BSCS\COAL\Final Project\DigitalRead\DigitalRead\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/programs\Microchip Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>D:/programs\Microchip Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>D:\UET BSCS\COAL\Final Project\DigitalRead\DigitalRead\delay_Macro.inc</FILE>
+  <FILE>D:\UET BSCS\COAL\Final Project\DigitalRead\DigitalRead\UART_Macros.inc</FILE>
+  <FILE>D:\UET BSCS\COAL\Final Project\DigitalRead\DigitalRead\div_Macro.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\UET BSCS\COAL\Final Project\DigitalRead\DigitalRead\Debug\DigitalRead.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DigitalRead.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DigitalRead.map</FILE>
+  <FILE>DigitalRead.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <loop><FILE>D:\UET BSCS\COAL\Final Project\DigitalRead\DigitalRead\main.asm</FILE><LINE>45</LINE></loop>
+  <loadThermalVal><FILE>D:\UET BSCS\COAL\Final Project\DigitalRead\DigitalRead\main.asm</FILE><LINE>132</LINE></loadThermalVal>
+  <OnThermalOn><FILE>D:\UET BSCS\COAL\Final Project\DigitalRead\DigitalRead\main.asm</FILE><LINE>59</LINE></OnThermalOn>
+  <flameSection><FILE>D:\UET BSCS\COAL\Final Project\DigitalRead\DigitalRead\main.asm</FILE><LINE>68</LINE></flameSection>
+  <IfFlameOn><FILE>D:\UET BSCS\COAL\Final Project\DigitalRead\DigitalRead\main.asm</FILE><LINE>77</LINE></IfFlameOn>
+  <EndLoop><FILE>D:\UET BSCS\COAL\Final Project\DigitalRead\DigitalRead\main.asm</FILE><LINE>81</LINE></EndLoop>
+  <onBuzzerOn><FILE>D:\UET BSCS\COAL\Final Project\DigitalRead\DigitalRead\main.asm</FILE><LINE>93</LINE></onBuzzerOn>
+  <onBuzzerOff><FILE>D:\UET BSCS\COAL\Final Project\DigitalRead\DigitalRead\main.asm</FILE><LINE>97</LINE></onBuzzerOff>
+  <ReadFromEsp><FILE>D:\UET BSCS\COAL\Final Project\DigitalRead\DigitalRead\main.asm</FILE><LINE>101</LINE></ReadFromEsp>
+  <skip_UART><FILE>D:\UET BSCS\COAL\Final Project\DigitalRead\DigitalRead\main.asm</FILE><LINE>127</LINE></skip_UART>
+  <externalTurnBuzzerOff><FILE>D:\UET BSCS\COAL\Final Project\DigitalRead\DigitalRead\main.asm</FILE><LINE>122</LINE></externalTurnBuzzerOff>
+  <wait><FILE>D:\UET BSCS\COAL\Final Project\DigitalRead\DigitalRead\main.asm</FILE><LINE>138</LINE></wait>
+ </LABELS>
+</ASSEMBLER_INFO>
